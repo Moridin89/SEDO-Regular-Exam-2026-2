@@ -9,7 +9,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                url: 'https://github.com/YOUR-USERNAME/repo2.git'
+                url: 'https://github.com/Moridin89/SEDO-Regular-Exam-2026-2.git'
             }
         }
 
